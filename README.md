@@ -18,3 +18,4 @@ Classifier (GB), Logistic Regression Classifier (LR), and Support Vector Classif
 And lastly, we will calculate the accuracy score, the performance matrix, and the
 classification report for every prediction model. The model with the maximum accuracy will be
 known.
+
